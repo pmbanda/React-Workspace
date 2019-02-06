@@ -6,7 +6,6 @@ function createWindow(){
 
 	// load index.html file to the app
 	win.loadFile('index.html')
-
 }
 
 app.on('ready', createWindow)
